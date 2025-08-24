@@ -1,4 +1,4 @@
-# Credit_Card_Transaction_Analysis_PowerBI_Report
+# Credit_Card_Transaction & Customer_Analysis_PowerBI_Report
 ## PowerBI
 ## Credit Card Analytics Project
 
